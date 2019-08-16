@@ -16,6 +16,7 @@ A curated list of awesome projects using Gitea
     - [Mobile](#mobile)
     - [Python](#python)
 
+<br>
 
 ## Applications
 
@@ -38,6 +39,8 @@ A curated list of awesome projects using Gitea
 
 * [MinIO](https://gitea.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs (mirror).
 
+
+<br>
 
 ## Framework
 
