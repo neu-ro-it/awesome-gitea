@@ -11,7 +11,7 @@ A curated list of awesome projects using Gitea
     - [Command Line](#command-line)
     - [DevOps](#devops)
     - [Storage](#storage)
-
+<br><br>
 - [Framework](#Framework)
     - [Mobile](#mobile)
     - [Python](#python)
