@@ -24,6 +24,10 @@ A curated list of awesome projects using Gitea
 
 * [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge) - A free and cloudless replacement for your gadget vendors' closed source Android applications. 
 
+### Bot
+
+* [staletea](https://gitea.com/jonasfranz/staletea) - StaleBot for Gitea.
+
 ### Command Line
 
 * [brew](https://gitea.com/Homebrew/brew) - The missing package manager for macOS (or Linux) (mirror).
