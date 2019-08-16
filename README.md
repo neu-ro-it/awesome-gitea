@@ -8,6 +8,7 @@ A curated list of awesome projects using Gitea
 
 - [Applications](#applications)
     - [Android](#android)
+    - [Bot](#bot)
     - [Command Line](#command-line)
     - [DevOps](#devops)
     - [Storage](#storage)
