@@ -13,9 +13,11 @@ A curated list of awesome projects using Gitea.
     - [DevOps](#devops)
     - [Storage](#storage)
 <br><br>
-- [Framework](#Framework)
+- [Frameworks](#frameworks)
     - [Mobile](#mobile)
     - [Python](#python)
+<br><br>
+- [Organizations](#organizations)
 
 <br>
 
@@ -47,7 +49,7 @@ A curated list of awesome projects using Gitea.
 
 <br>
 
-## Framework
+## Frameworks
 
 ### Mobile
 
@@ -56,4 +58,14 @@ A curated list of awesome projects using Gitea.
 ### Python
 
 * [biotite](https://codeberg.org/biotite-dev/biotite) - A general framework for computational biology (mirror).
+
+
+<br>
+
+## Organizations
+
+* [Codeberg](https://codeberg.org/Codeberg) - Non-Profit Collaboration Community for Free and Open Source Projects (formerly known under its working title teahub.io).
+* [PSES](https://git.passageenseine.fr/pses) - Pas Sage en Seine.
+
+
 
