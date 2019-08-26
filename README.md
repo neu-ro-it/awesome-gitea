@@ -26,6 +26,8 @@ A curated list of awesome projects using Gitea.
 ### Android
 
 * [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge) - A free and cloudless replacement for your gadget vendors' closed source Android applications. 
+* [GitNex](https://gitea.com/mmarif/GitNex) - Android client for Gitea.
+
 
 ### Bot
 
