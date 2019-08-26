@@ -67,6 +67,7 @@ A curated list of awesome projects using Gitea.
 ## Organizations
 
 * [Codeberg](https://codeberg.org/Codeberg) - Non-Profit Collaboration Community for Free and Open Source Projects (formerly known under its working title teahub.io).
+* [OpenDev](https://opendev.org/) - A space for collaborative Open Source software development.
 * [PSES](https://git.passageenseine.fr/pses) - Pas Sage en Seine.
 * [Teknik](https://git.teknik.io/Teknikode) - Provide services to help those who try to innovate.
 
