@@ -18,8 +18,8 @@ A curated list of awesome projects using Gitea.
     - [Python](#python)
 <br><br>
 - [Organizations](#organizations)
-
-<br>
+<br><br>
+- [Themes](#themes)
 
 ## Applications
 
@@ -71,4 +71,6 @@ A curated list of awesome projects using Gitea.
 * [PSES](https://git.passageenseine.fr/pses) - Pas Sage en Seine.
 * [Teknik](https://git.teknik.io/Teknikode) - Provide services to help those who try to innovate.
 
+## Themes
 
+* [Gitea Matrix Template](https://github.com/TylerByte666/gitea-matrix-template) - Custom Gitea Theme! Spruce up gitea's arc-green template, with a matrix inspired background. 
