@@ -12,31 +12,17 @@ A curated list of awesome projects related to Gitea.
     - [Command Line](#command-line)
     - [DevOps](#devops)
 
-<br><br>
-
 - [Organizations](#organizations)
-
-<br><br>
 
 - [Packages](#packages)
 
-<br><br>
-
 - [Plugins](#plugins)
-
-<br><br>
 
 - [Scripts](#scripts)
 
-<br><br>
-
 - [SDK](#sdk)
 
-<br><br>
-
 - [Themes](#themes)
-
-<br>
 
 ## Applications
 
@@ -65,9 +51,6 @@ A curated list of awesome projects related to Gitea.
 * [GitNex](https://gitea.com/mmarif/GitNex) - Android client for Gitea.
 * [git-touch](https://github.com/pd4d10/git-touch) - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea, built with Flutter
 
-
-<br>
-
 ## Organizations
 
 * [Codeberg](https://codeberg.org/Codeberg) - Non-Profit Collaboration Community for Free and Open Source Projects (formerly known under its working title teahub.io).
@@ -75,8 +58,6 @@ A curated list of awesome projects related to Gitea.
 * [OpenDev](https://opendev.org/) - A space for collaborative Open Source software development.
 * [PSES](https://git.passageenseine.fr/pses) - Pas Sage en Seine.
 * [Teknik](https://git.teknik.io/Teknikode) - Provide services to help those who try to innovate.
-
-<br>
 
 ## Packages
 
@@ -87,9 +68,7 @@ A curated list of awesome projects related to Gitea.
 * [gitea-helm-chart](https://github.com/jfelten/gitea-helm-chart) - gitea-helm-chart
 * [gitea-operator](https://github.com/robotinfra/gitea-operator) - Gitea kubernates operator
 * [gitea-operator](https://github.com/integr8ly/gitea-operator) - An Operator that installs Gitea 
-* [synology-gitea-jboxberger](https://github.com/jboxberger/synology-gitea-jboxberger) - Synology Gitea Package 
-
-<br>
+* [synology-gitea-jboxberger](https://github.com/jboxberger/synology-gitea-jboxberger) - Synology Gitea Package
 
 ## Plugins
 
@@ -99,13 +78,9 @@ A curated list of awesome projects related to Gitea.
 * [Gitea Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=MysticBoy.GiteaExtensionforVisualStudio) - A Visual Studio Extension that brings the Gitea Flow into Visual Studio.
 * [gitea-kanban](https://github.com/qontu/gitea-kanban) - Kanban for Gitea done in Vue
 
-<br>
-
 ## Scripts
 
 * [ansible-role-gitea](https://github.com/thomas-maurice/ansible-role-gitea) - Ansible role to deploy a Gitea instance
-
-<br>
 
 ## SDK
 
@@ -115,8 +90,6 @@ A curated list of awesome projects related to Gitea.
 * [gitea.js](https://github.com/waspothegreat/gitea.js) - Gitea (WIP) wrapper lib made in javascript.
 * [Giteapy](https://pypi.org/project/giteapy/) - Python SDK for gitea
 * [Golang SDK](https://gitea.com/gitea/go-sdk) - Official Golang SDK for gitea.
-
-<br>
 
 ## Themes
 
