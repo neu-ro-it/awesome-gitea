@@ -7,10 +7,11 @@ A curated list of awesome projects related to Gitea.
 ### Contents
 
 - [Applications](#applications)
-    - [Android](#android)
     - [Bot](#bot)
     - [Command Line](#command-line)
     - [DevOps](#devops)
+    - [Mobile](#mobile)
+    - [Panel](#panel)
 
 - [Organizations](#organizations)
 
