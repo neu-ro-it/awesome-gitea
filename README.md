@@ -101,6 +101,7 @@ A curated list of awesome projects related to Gitea.
 * [gitear](https://github.com/ixpantia/gitear) - R wrapper to the gitea API
 * [Golang SDK](https://gitea.com/gitea/go-sdk) - Official Golang SDK for gitea.
 * [yii2-gitea](https://github.com/cedx/yii2-gitea) - Gitea connector for Yii
+* [PHP](https://github.com/avency/Gitea/) - PHP SDK for gitea
 
 ## Themes
 
