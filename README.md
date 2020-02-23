@@ -41,12 +41,14 @@ A curated list of awesome projects related to Gitea.
 ### DevOps
 
 * [agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined. Built-in Gitea support.
+* [AWS Cloud Integration(webhook-to-s3)](https://github.com/leonli/webhook-to-s3) - Gitea Webhook integration with AWS CodePipeline and CodeBuild by automatically uploading the archive to AWS S3.
 * [appveyor](https://www.appveyor.com/) - Gitea receives first-class support in AppVeyor CI.
 * [buildbot-gitea](https://github.com/lab132/buildbot-gitea) - Buildbot plugin for integration with gitea.
 * [buildkite-connector](https://github.com/techknowlogick/gitea-buildkite-connector) - Connect Gitea & Buildkite.
 * [Concourse](https://www.concourse-ci.org/) - partially can be integrated with Gitea. see https://discuss.concourse-ci.org/t/concourse-ci-and-gitea-oauth/1475
 * [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform. Built-in Gitea support.
 * [Jenkins](https://github.com/jenkinsci/gitea-plugin) - Gitea plugin for jenkins.
+
 
 ### Mobile
 
