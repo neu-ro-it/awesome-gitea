@@ -13,6 +13,8 @@ A curated list of awesome projects related to Gitea.
     - [Mobile](#mobile)
     - [Panel](#panel)
 
+- [Migration](#migration)
+
 - [Organizations](#organizations)
 
 - [Packages](#packages)
@@ -60,6 +62,10 @@ A curated list of awesome projects related to Gitea.
 ### Panel
 
 * [GiteaPanel](https://github.com/sashaoli/GiteaPanel) - Manage the local Gitea server from the tray.
+
+## Migration
+
+* [github2gitea](https://gitea.com/yige/github2gitea) - A python script to migrate Github repositories Gitea with issues/prs/wiki and etc.
 
 ## Organizations
 
