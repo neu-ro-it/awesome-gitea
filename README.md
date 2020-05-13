@@ -83,7 +83,7 @@ A curated list of awesome projects related to Gitea.
 * [gitea-chocolatey](https://github.com/doggy8088/gitea-chocolatey) - Chocolatey package for gitea
 * [gitea-helm-chart](https://github.com/jfelten/gitea-helm-chart) - gitea-helm-chart
 * [gitea-operator](https://github.com/integr8ly/gitea-operator) - An Operator that installs Gitea
-* [gitea-operator](https://github.com/robotinfra/gitea-operator) - Gitea kubernates operator
+* [gitea-operator](https://github.com/robotinfra/gitea-operator) - Gitea Kubernetes Operator
 * [synology-gitea-jboxberger](https://github.com/jboxberger/synology-gitea-jboxberger) - Synology Gitea Package
 
 ## Package Management
