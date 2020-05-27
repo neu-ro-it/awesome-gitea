@@ -66,6 +66,7 @@ A curated list of awesome projects related to Gitea.
 ## Migration
 
 * [github2gitea](https://gitea.com/yige/github2gitea) - A python script to migrate Github repositories Gitea with issues/prs/wiki and etc.
+* [gitlab2gitea](https://github.com/cornelk/gitlab2gitea) - A command line tool build with Golang to migrate a GitLab project to Gitea.
 
 ## Organizations
 
