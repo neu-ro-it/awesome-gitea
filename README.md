@@ -50,6 +50,7 @@ A curated list of awesome projects related to Gitea.
 * [buildbot-gitea](https://github.com/lab132/buildbot-gitea) - Buildbot plugin for integration with gitea.
 * [buildkite-connector](https://github.com/techknowlogick/gitea-buildkite-connector) - Connect Gitea & Buildkite.
 * [Concourse](https://www.concourse-ci.org/) - partially can be integrated with Gitea. see https://discuss.concourse-ci.org/t/concourse-ci-and-gitea-oauth/1475
+* [dex](https://github.com/dexidp/dex) - Dex is a federated OpenID Connect provider. Built-in Gitea support.
 * [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform. Built-in Gitea support.
 * [Jenkins](https://github.com/jenkinsci/gitea-plugin) - Gitea plugin for jenkins.
 * [Renovate](https://github.com/renovatebot/renovate) - Gitea compatible configurable universal dependability update tool
