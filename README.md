@@ -83,6 +83,7 @@ A curated list of awesome projects related to Gitea.
 * [FreeNAS-Gitea](https://github.com/jed-frey/FreeNAS-Gitea) - Gitea install copy/pasta instructions for FreeNAS and FreeBSD iocage jails.
 * [gitea-chart](https://github.com/k8s-land/gitea-chart) - Gitea Helm Chart
 * [gitea-chocolatey](https://github.com/doggy8088/gitea-chocolatey) - Chocolatey package for gitea
+* [Gitea Debian/Ubuntu packages](https://gitlab.com/packaging/gitea) - Debian/Ubuntu packages
 * [gitea-helm-chart](https://github.com/jfelten/gitea-helm-chart) - gitea-helm-chart
 * [gitea-operator](https://github.com/integr8ly/gitea-operator) - An Operator that installs Gitea
 * [gitea-operator](https://github.com/robotinfra/gitea-operator) - Gitea Kubernetes Operator
