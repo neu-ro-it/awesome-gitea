@@ -63,6 +63,7 @@ A curated list of awesome projects related to Gitea.
 ### Panel
 
 * [GiteaPanel](https://github.com/sashaoli/GiteaPanel) - Manage the local Gitea server from the tray.
+* [Listea](https://github.com/IGLOU-EU/listea) - Simple Gitea issues viewer from the tray.
 
 ## Migration
 
