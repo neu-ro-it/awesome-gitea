@@ -58,7 +58,7 @@ A curated list of awesome projects related to Gitea.
 
 ### Mobile
 
-* [GitNex](https://gitea.com/mmarif/GitNex) - Android client for Gitea.
+* [GitNex](https://codeberg.org/gitnex/GitNex) - Android client for Gitea.
 * [git-touch](https://github.com/pd4d10/git-touch) - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea, built with Flutter
 
 ### Panel
