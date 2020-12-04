@@ -78,6 +78,7 @@ A curated list of awesome projects related to Gitea.
 * [FSFE](https://git.fsfe.org/) - Git @ Free Software Foundation Europe
 * [OpenDev](https://opendev.org/) - A space for collaborative Open Source software development.
 * [PSES](https://git.passageenseine.fr/pses) - Pas Sage en Seine.
+* [Sum7](https://dev.sum7.eu/) - A hoster to support decentralized services. A step away from big cloud services.
 * [Teknik](https://git.teknik.io/Teknikode) - Provide services to help those who try to innovate.
 
 ## Packages
