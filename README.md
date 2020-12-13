@@ -29,6 +29,8 @@ A curated list of awesome projects related to Gitea.
 
 - [Themes](#themes)
 
+- [Workflow Tools](#workflow-tools)
+
 ## Applications
 
 ### Bot
@@ -137,3 +139,7 @@ A curated list of awesome projects related to Gitea.
 * [Gitea Dark Red](https://github.com/iamdoubz/Gitea-Dark-Red-Theme) - The dark red Gitea theme used in https://git.dou.bet/iamdoubz/Gitea-Dark-Red
 * [Gitea Red Silver](https://github.com/iamdoubz/Gitea-Red-Silver) - The red silver Gitea theme used in https://git.dou.bet/iamdoubz/Gitea-Red-Silver
 * [theme.park](https://github.com/gilbN/theme.park/wiki/Gitea) - A theme suite for Gitea. 
+
+## Workflow Tools
+
+* [alfred-gitea](https://github.com/pat-s/alfred-gitea) - Alfred workflow for Gitea
