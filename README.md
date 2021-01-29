@@ -57,6 +57,7 @@ A curated list of awesome projects related to Gitea.
 * [Jenkins](https://github.com/jenkinsci/gitea-plugin) - Gitea plugin for jenkins.
 * [Metroline](https://github.com/metroline/metroline) - Metroline is a Continuous Integration and Delivery platform built with Docker, Node, React and MongoDB, natively compatible with Gitea.
 * [Renovate](https://github.com/renovatebot/renovate) - Gitea compatible configurable universal dependability update tool
+* [woodpecker](https://github.com/laszlocph/woodpecker) - An opinionated fork of the Drone CI system. Built-in Gitea support. (see [docs](https://woodpecker.laszlo.cloud/))
 
 ### Mobile
 
