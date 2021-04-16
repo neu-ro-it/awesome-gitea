@@ -41,6 +41,7 @@ A curated list of awesome projects related to Gitea.
 
 * [changelog](https://gitea.com/gitea/changelog) - Generate changelog of gitea repository.
 * [gitea-cli](https://github.com/bashup/gitea-cli) - Extensible, configurable command-line API client for gitea and gogs.
+* [gitea-installer](https://github.com/uvulpos/gitea-installer) - a simple ubuntu native installer script
 * [sip](https://gitea.com/jolheiser/sip) - A prompt-based command line tool to interact with Gitea servers.
 * [tea](https://gitea.com/gitea/tea) - A command line tool to interact with Gitea servers.
 
