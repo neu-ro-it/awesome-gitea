@@ -31,6 +31,8 @@ A curated list of awesome projects related to Gitea.
 
 - [Workflow Tools](#workflow-tools)
 
+- [Project Management](#project-management)
+
 ## Applications
 
 ### Bot
@@ -148,3 +150,7 @@ A curated list of awesome projects related to Gitea.
 ## Workflow Tools
 
 * [alfred-gitea](https://github.com/pat-s/alfred-gitea) - Alfred workflow for Gitea
+
+## Project Management
+
+* [JetBrains YouTrack](https://www.jetbrains.com/help/youtrack/standalone/integration-with-gitea.html) - A web-based issue tracking and project management platform
