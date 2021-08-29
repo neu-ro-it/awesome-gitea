@@ -141,16 +141,17 @@ A curated list of awesome projects related to Gitea.
 
 ## Themes
 
+* [Gitea Carbon Red](https://github.com/iamdoubz/Gitea-Carbon-Red) - A darker red Gitea version 1.14+ theme used in https://git.dou.bet/iamdoubz/Gitea-Carbon-Red
 * [Gitea Dark Blue](https://gitea.artixlinux.org/artix/gitea-dark-blue) - The dark blue Gitea theme used in https://gitea.artixlinux.org
+* [Gitea Dark Red](https://github.com/iamdoubz/Gitea-Dark-Red-Theme) - The dark red Gitea theme used in https://git.dou.bet/iamdoubz/Gitea-Dark-Red
+* [Gitea GitHub](https://github.com/lstolcman/gitea-github-theme) - Github theme for Gitea
+* [Gitea GitHub2](https://github.com/pat-s/gitea-github-theme) - A GitHub-based Gitea theme
 * [Gitea Matrix Template](https://github.com/TylerByte666/gitea-matrix-template) - Custom Gitea Theme! Spruce up gitea's arc-green template, with a matrix inspired background.
 * [Gitea Modern](https://codeberg.org/Freeplay/CSS-Styles/src/branch/main/Gitea#gitea-modern) - Changes the layout of Gitea to give it a more modern look. Usable with other themes that only change colors.
-* [Gitea Space](https://github.com/Th3Whit3Wolf/Space-Gitea) - Spacemacs Theme for Gitea
-* [Github for Gitea](https://github.com/lstolcman/gitea-github-theme) - Github theme for Gitea
-* [Gitea Dark Red](https://github.com/iamdoubz/Gitea-Dark-Red-Theme) - The dark red Gitea theme used in https://git.dou.bet/iamdoubz/Gitea-Dark-Red
-* [Gitea Red Silver](https://github.com/iamdoubz/Gitea-Red-Silver) - The red silver Gitea theme used in https://git.dou.bet/iamdoubz/Gitea-Red-Silver
-* [theme.park](https://github.com/gilbN/theme.park/wiki/Gitea) - A theme suite for Gitea.
-* [Gitea Carbon Red](https://github.com/iamdoubz/Gitea-Carbon-Red) - A darker red Gitea version 1.14+ theme used in https://git.dou.bet/iamdoubz/Gitea-Carbon-Red
 * [Gitea Pitch Black](https://github.com/iamdoubz/Gitea-Pitch-Black) - A pitch black Gitea version 1.14+ theme used in https://git.dou.bet/iamdoubz/Gitea-Pitch-Black
+* [Gitea Red Silver](https://github.com/iamdoubz/Gitea-Red-Silver) - The red silver Gitea theme used in https://git.dou.bet/iamdoubz/Gitea-Red-Silver
+* [Gitea Space](https://github.com/Th3Whit3Wolf/Space-Gitea) - Spacemacs Theme for Gitea
+* [theme.park](https://github.com/gilbN/theme.park/wiki/Gitea) - A theme suite for Gitea.
 
 ## Workflow Tools
 
