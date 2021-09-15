@@ -146,6 +146,7 @@ A curated list of awesome projects related to Gitea.
 * [Gitea Dark Red](https://github.com/iamdoubz/Gitea-Dark-Red-Theme) - The dark red Gitea theme used in https://git.dou.bet/iamdoubz/Gitea-Dark-Red
 * [Gitea GitHub](https://github.com/lstolcman/gitea-github-theme) - Github theme for Gitea
 * [Gitea GitHub2](https://github.com/pat-s/gitea-github-theme) - A GitHub-based Gitea theme
+* [Gitea Light Blue](https://github.com/sIspravnikov/gitea-lightblue) - Light blue theme for Gitea, inspired by Bitbucket design
 * [Gitea Matrix Template](https://github.com/TylerByte666/gitea-matrix-template) - Custom Gitea Theme! Spruce up gitea's arc-green template, with a matrix inspired background.
 * [Gitea Modern](https://codeberg.org/Freeplay/CSS-Styles/src/branch/main/Gitea#gitea-modern) - Changes the layout of Gitea to give it a more modern look. Usable with other themes that only change colors.
 * [Gitea Pitch Black](https://github.com/iamdoubz/Gitea-Pitch-Black) - A pitch black Gitea version 1.14+ theme used in https://git.dou.bet/iamdoubz/Gitea-Pitch-Black
