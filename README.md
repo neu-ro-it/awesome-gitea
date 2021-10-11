@@ -37,6 +37,7 @@ A curated list of awesome projects related to Gitea.
 
 ### Bot
 
+* [sq-bot](https://codeberg.org/justusbunsi/gitea-sonarqube-bot) - Bot for decorating Gitea pull requests with SonarQube analysis details.
 * [staletea](https://gitea.com/jonasfranz/staletea) - StaleBot for Gitea.
 
 ### Command Line
