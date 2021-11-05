@@ -76,9 +76,11 @@ A curated list of awesome projects related to Gitea.
 
 ## Migration
 
+* [Bitbucket2Gitea](https://github.com/sIspravnikov/BitbucketToGitea) - A python3 script to migrate all projects and repositories from Atlassian BitBucket to Gitea.
 * [github2gitea](https://gitea.com/yige/github2gitea) - A python script to migrate Github repositories Gitea with issues/prs/wiki and etc.
 * [gitlab2gitea](https://github.com/cornelk/gitlab2gitea) - A command line tool build with Golang to migrate a GitLab project to Gitea.
 * [Gogs2Gitea](https://github.com/lesh59/Gogs2Gitea) - A SQL script and process (README) to migrate directly from Gogs 0.12.3 to Gitea 1.12.5 / 1.12.6 in MySQL/MariaDB and maybe other DB's.
+
 
 ## Organizations
 
