@@ -102,6 +102,7 @@ A curated list of awesome projects related to Gitea.
 * [gitea-helm-chart](https://github.com/jfelten/gitea-helm-chart) - gitea-helm-chart
 * [gitea-operator](https://github.com/integr8ly/gitea-operator) - An Operator that installs Gitea
 * [gitea-operator](https://github.com/robotinfra/gitea-operator) - Gitea Kubernetes Operator
+* [gitea_yhn](https://github.com/YunoHost-Apps/gitea_ynh) - Gitea package for YunoHost
 * [helm-chart](https://gitea.com/gitea/helm-chart) - Official Gitea Helm Chart
 * [Raspbian Addons](https://raspbian-addons.org) - an APT repository for Raspberry Pi which includes up-to-date gitea packages.
 * [synology-gitea-jboxberger](https://github.com/jboxberger/synology-gitea-jboxberger) - Synology Gitea Package
