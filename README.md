@@ -55,7 +55,7 @@ A curated list of awesome projects related to Gitea.
 * [AWS Cloud Integration(webhook-to-s3)](https://github.com/leonli/webhook-to-s3) - Gitea Webhook integration with AWS CodePipeline and CodeBuild by automatically uploading the archive to AWS S3.
 * [buildbot-gitea](https://github.com/lab132/buildbot-gitea) - Buildbot plugin for integration with gitea.
 * [buildkite-connector](https://github.com/techknowlogick/gitea-buildkite-connector) - Connect Gitea & Buildkite.
-* [Concourse](https://www.concourse-ci.org/) - partially can be integrated with Gitea. see https://discuss.concourse-ci.org/t/concourse-ci-and-gitea-oauth/1475
+* [Concourse](https://www.concourse-ci.org/) - partially can be integrated with Gitea.
 * [dex](https://github.com/dexidp/dex) - Dex is a federated OpenID Connect provider. Built-in Gitea support.
 * [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform. Built-in Gitea support. (see [docs](https://docs.drone.io/server/provider/gitea/))
 * [Jenkins](https://github.com/jenkinsci/gitea-plugin) - Gitea plugin for jenkins.
@@ -68,7 +68,7 @@ A curated list of awesome projects related to Gitea.
 ### Mobile
 
 * [GitNex](https://codeberg.org/gitnex/GitNex) - Android client for Gitea.
-* [git-touch](https://github.com/pd4d10/git-touch) - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea, built with Flutter
+* [GitTouch](https://github.com/git-touch/git-touch) - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea, built with Flutter
 
 ### Panel
 
@@ -96,12 +96,10 @@ A curated list of awesome projects related to Gitea.
 ## Packages
 
 * [docker-openshift-gitea](https://github.com/wkulhanek/docker-openshift-gitea) - Gitea container for OpenShift
-* [FreeNAS-Gitea](https://github.com/jed-frey/FreeNAS-Gitea) - Gitea install copy/pasta instructions for FreeNAS and FreeBSD iocage jails.
 * [gitea-chocolatey](https://github.com/doggy8088/gitea-chocolatey) - Chocolatey package for gitea
 * [Gitea Debian/Ubuntu packages](https://gitlab.com/packaging/gitea) - Debian/Ubuntu packages
 * [gitea-helm-chart](https://github.com/jfelten/gitea-helm-chart) - gitea-helm-chart
 * [gitea-operator](https://github.com/integr8ly/gitea-operator) - An Operator that installs Gitea
-* [gitea-operator](https://github.com/robotinfra/gitea-operator) - Gitea Kubernetes Operator
 * [gitea_yhn](https://github.com/YunoHost-Apps/gitea_ynh) - Gitea package for YunoHost
 * [helm-chart](https://gitea.com/gitea/helm-chart) - Official Gitea Helm Chart
 * [Raspbian Addons](https://raspbian-addons.org) - an APT repository for Raspberry Pi which includes up-to-date gitea packages.
@@ -145,11 +143,10 @@ A curated list of awesome projects related to Gitea.
 * [PHP](https://github.com/avency/Gitea/) - PHP SDK for gitea
 * [Sugar Cube Client](https://github.com/sitelease/sugar-cube-client) - A sweet Gitea API client for PHP
 * [tea4j](https://codeberg.org/gitnex/tea4j) - Java library which uses Retrofit to access the Gitea API
-* [yii2-gitea](https://github.com/cedx/yii2-gitea) - Gitea connector for Yii
 
 ## Themes
 
-* [Modern](https://codeberg.org/Freeplay/CSS-Styles/src/branch/main/Gitea#gitea-modern) - Changes the layout for a more modern look. Usable with other themes that only change colors.
+* [Modern](https://codeberg.org/Freeplay/Gitea-Modern) - Changes the layout for a more modern look. Usable with other themes that only change colors.
 * [theme.park](https://docs.theme-park.dev/themes/gitea) - Rich theme suite that includes Gitea
 * [pat-s/GitHub](https://github.com/pat-s/gitea-github-theme) - Opinionated GitHub-inspired light and dark themes
 
