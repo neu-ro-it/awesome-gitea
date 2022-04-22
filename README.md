@@ -86,11 +86,16 @@ A curated list of awesome projects related to Gitea.
 
 ## Organizations
 
+### Open Registration
+
 * [Codeberg](https://codeberg.org/Codeberg) - Non-Profit Collaboration Community for Free and Open Source Projects (formerly known under its working title teahub.io).
-* [FSFE](https://git.fsfe.org/) - Git @ Free Software Foundation Europe
 * [GitShuiShan](http://gitea.shuishan.net.cn/) - A Git platform for education
 * [OpenDev](https://opendev.org/) - A space for collaborative Open Source software development.
-* [PSES](https://git.passageenseine.fr/pses) - Pas Sage en Seine.
+
+### For internal use
+
+* [FSFE](https://git.fsfe.org/) - Git @ Free Software Foundation Europe
+* [PSES](https://git.passageenseine.fr/pses) - Git @ Pas Sage en Seine.
 * [Sum7](https://dev.sum7.eu/) - A hoster to support decentralized services. A step away from big cloud services.
 * [Teknik](https://git.teknik.io/Teknikode) - Provide services to help those who try to innovate.
 
