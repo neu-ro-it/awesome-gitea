@@ -64,6 +64,7 @@ A curated list of awesome projects related to Gitea.
 * [Monitoring mixin](https://github.com/go-gitea/gitea/tree/main/contrib/gitea-monitoring-mixin) - Gitea monitoring mixin (Grafana dashboard)
 * [mvoCI](https://codeberg.org/snaums/mvoCI) - very simple Continuous Integration Server written in go. Built-in Gitea support.
 * [Renovate](https://github.com/renovatebot/renovate) - Gitea compatible configurable universal dependability update tool
+* [Tea Runner](https://github.com/DavesCodeMusings/tea-runner) - A minimalist Python Flask app that uses Gitea webhooks to perform actions.
 * [woodpecker](https://github.com/woodpecker-ci/woodpecker) - An opinionated fork of the Drone CI system. Built-in Gitea support. (see [docs](https://woodpecker-ci.org/docs/administration/forges/gitea))
 
 ### Mobile
