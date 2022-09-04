@@ -38,6 +38,7 @@ A curated list of awesome projects related to Gitea.
 ### Bot
 
 * [giteacat](https://git.mastodont.cat/spla/giteacat.git) - Python Bot that register Mastodon server's users to Gitea instance, on demand.
+* [issue-bot](https://git.meli.delivery/meli/issue-bot) - Bot for mailing list mirroring of Gitea issues. Allow people to submit issues on repositories using only e-mail without signing up. [github read-only mirror](https://github.com/meli/issue-bot)
 * [sq-bot](https://codeberg.org/justusbunsi/gitea-sonarqube-bot) - Bot for decorating Gitea pull requests with SonarQube analysis details.
 * [staletea](https://gitea.com/jonasfranz/staletea) - StaleBot for Gitea.
 * [tea-cloc](https://codeberg.org/qwerty287/tea-cloc) - Bot to count lines of code on Gitea repos and comments on pull requests with code change statistics.
