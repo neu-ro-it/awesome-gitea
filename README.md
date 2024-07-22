@@ -95,6 +95,7 @@ A curated list of awesome projects related to Gitea.
 
 * [Codeberg](https://codeberg.org/Codeberg) - Non-Profit Collaboration Community for Free and Open Source Projects (formerly known under its working title teahub.io).
 * [Disroot](https://git.disroot.org/) - Aims to change the way people are used to interact on the web.
+* [GitDev](https://gitdev.ru) - Git for developers.
 * [GitShuiShan](http://gitea.shuishan.net.cn/) - A Git platform for education
 * [OpenDev](https://opendev.org/) - A space for collaborative Open Source software development.
 
