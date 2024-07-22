@@ -96,6 +96,7 @@ A curated list of awesome projects related to Gitea.
 * [Codeberg](https://codeberg.org/Codeberg) - Non-Profit Collaboration Community for Free and Open Source Projects (formerly known under its working title teahub.io).
 * [Disroot](https://git.disroot.org/) - Aims to change the way people are used to interact on the web.
 * [GitShuiShan](http://gitea.shuishan.net.cn/) - A Git platform for education
+* [Laser git](https://git.laser.di.unimi.it) - A Git server hosted by LaSER Laboratory of Computer Security, from the Department of Computer Science, at University of Milan, Italy.
 * [OpenDev](https://opendev.org/) - A space for collaborative Open Source software development.
 
 ### For internal use
