@@ -101,6 +101,7 @@ A curated list of awesome projects related to Gitea.
 ### For internal use
 
 * [FSFE](https://git.fsfe.org/) - Git @ Free Software Foundation Europe
+* [Gitdab](https://gitdab.com) -  A Forgejo server run by LavaTech.
 * [PSES](https://git.passageenseine.fr/pses) - Git @ Pas Sage en Seine.
 * [Sum7](https://dev.sum7.eu/) - A hoster to support decentralized services. A step away from big cloud services.
 * [Teknik](https://git.teknik.io/Teknikode) - Provide services to help those who try to innovate.
